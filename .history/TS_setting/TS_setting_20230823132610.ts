@@ -1,0 +1,1 @@
+let nametype: string = "kim";
